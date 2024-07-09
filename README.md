@@ -24,11 +24,11 @@
 ## Language and tools:
 
 
-![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=pink)
+![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=grey)
 ![Polars](https://img.shields.io/badge/Polars--blue?style=flat-square&logo=Polars&labelColor=black&color=blue)
-![NumPy](https://img.shields.io/badge/numpy--red?style=flat-square&logo=numpy&labelColor=black&color=blue)
-![FastAPI](https://img.shields.io/badge/fastapi--red?style=flat-square&logo=fastapi&labelColor=black&color=blue)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy--red?style=flat-square&logo=sqlalchemy&labelColor=grey&color=blue)
+![NumPy](https://img.shields.io/badge/NumPy--red?style=flat-square&logo=numpy&labelColor=black&color=green)
+![FastAPI](https://img.shields.io/badge/FastAPI--red?style=flat-square&logo=fastapi&labelColor=black&color=red)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy--red?style=flat-square&logo=sqlalchemy&labelColor=grey&color=yellow)
 
 <br>
 
