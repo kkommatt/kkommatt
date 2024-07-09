@@ -28,7 +28,7 @@
 ![Polars](https://img.shields.io/badge/Polars--blue?style=flat-square&logo=Polars&labelColor=black&color=blue)
 ![NumPy](https://img.shields.io/badge/NumPy--red?style=flat-square&logo=numpy&labelColor=black&color=green)
 ![FastAPI](https://img.shields.io/badge/FastAPI--red?style=flat-square&logo=fastapi&labelColor=black&color=red)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy--red?style=flat-square&logo=sqlalchemy&labelColor=grey&color=yellow)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy--red?style=flat-square&logo=sqlalchemy&labelColor=black&color=yellow)
 
 <br>
 
