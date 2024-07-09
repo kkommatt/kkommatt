@@ -35,6 +35,7 @@
 ## Folow me:
 
 [![Codewars](https://www.codewars.com/users/kkommatt/badges/small)](https://www.codewars.com/users/kkommatt)
+
 <br>
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://ua.linkedin.com/in/matvii-kovalyk-ab6757172)
 
