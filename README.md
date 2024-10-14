@@ -1,7 +1,5 @@
 <div id="Header" align="center">
-    <h1>Hi there, i`m Matthew</h1>
-    <h3>Python developer from Ukraine</h3>
-
+    <h1>Hi there, i'm Matthew</h1>
 </div>
 <br>
 
@@ -13,13 +11,13 @@
 </b>
 
 
-### I love to learn smth new! 
+### I like to learn smth new! 
 
 <br>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkommatt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkommatt&layout=compact&theme=vision-friendly-dark)]
 
 ## Language and tools:
 
